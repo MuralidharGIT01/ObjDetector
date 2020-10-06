@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename> (3).jpg</filename>
+	<path>C:\Users\Muralidhar\Anaconda3\envs\tf_python\Lib\site-packages\tensorflow\models\images\ (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3864</width>
+		<height>5152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>budgie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>747</xmin>
+			<ymin>668</ymin>
+			<xmax>3816</xmax>
+			<ymax>4391</ymax>
+		</bndbox>
+	</object>
+</annotation>
